@@ -4,7 +4,7 @@ A simple and elegant Plymouth theme with OEM logo on top, OS logo below and a bo
 ---
 
 ## Note
-After installation, you might want to change ```watermark.png``` with an image of your distro's logo, but the name needs to be that one. The default one is CachyOS.
+After installation, you might want to change ```watermark.png``` with an image of your distro's logo, but it needs to have the same name. The default one is CachyOS.
 
 ## Installation
 Installation is simple:
