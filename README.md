@@ -1,7 +1,6 @@
 # Slingshot
 A simple and elegant Plymouth theme with OEM logo on top, OS logo below and a bouncing/growing bar at the bottom.
 
----
 
 ## Note
 After installation, you might want to change ```watermark.png``` with an image of your distro's logo, but it needs to have the same name. The default one is CachyOS.
