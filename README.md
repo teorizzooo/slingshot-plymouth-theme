@@ -23,3 +23,9 @@ Installation is simple:
 
    Alternatively, you might be able to do it in your system settings, but it's recommended to use the above command.
 
+---
+
+## Known issues to fix
+- Fade-out only applies to loading bar and not to OEM and OS logos (it's how it works right now)
+- Shutdown, reboot and all options other tham boot-up should only play throbber animation and not final animation
+
