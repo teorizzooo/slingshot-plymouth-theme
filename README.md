@@ -24,7 +24,7 @@ Installation is simple:
 
 ---
 
-## Known issues to fix
-- Fade-out only applies to loading bar and not to OEM and OS logos (it's how it works right now)
-- Shutdown, reboot and all options other tham boot-up should only play throbber animation and not final animation
+## Known issues to fix and stuff to be added
+- Fade-out could also apply to loading bar and not to OEM and OS logos
+- Shutdown, reboot and all options other tham boot-up can't play only the throbber animation and not the final animation
 

@@ -19,25 +19,25 @@ UseAnimation=true
 UseFirmwareBackground=true
 
 [shutdown]
-UseAnimation=true
+UseAnimation=false
 UseFirmwareBackground=true
 
 [reboot]
-UseAnimation=true
+UseAnimation=false
 UseFirmwareBackground=true
 
 [updates]
-UseAnimation=true
+UseAnimation=false
 UseFirmwareBackground=true
 
 [system-upgrade]
-UseAnimation=true
+UseAnimation=false
 UseFirmwareBackground=true
 
 [firmware-upgrade]
-UseAnimation=true
+UseAnimation=false
 UseFirmwareBackground=true
 
 [system-reset]
-UseAnimation=true
+UseAnimation=false
 UseFirmwareBackground=true
